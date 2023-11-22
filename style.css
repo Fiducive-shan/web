@@ -96,7 +96,7 @@ button:hover {
     margin-bottom: 40px;
     border-radius: 50px;
     background-color: white;
-    background-image: url(/Asset/about-us.png);
+    background-image: url(about-us.png);
     background-position: 25%;
 }
 
@@ -107,7 +107,7 @@ button:hover {
     margin-bottom: 40px;
     border-radius: 50px;
     background-color: white;
-    background-image: url(/Asset/why\ chosse\ fiducive.png);
+    background-image: url(why\ chosse\ fiducive.png);
     background-position: 50%;
 }
 
